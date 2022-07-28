@@ -1,3 +1,16 @@
 .btn-blue{
     background-color: #289BDE;
 }
+
+.btn-blue:hover{
+    background-color: #289BDE;
+}
+
+.text-blue{
+    color: #289BDE;
+}
+
+.btn-white{
+    color: #289BDE;
+    background-color: white;
+}
