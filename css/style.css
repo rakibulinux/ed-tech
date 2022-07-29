@@ -25,3 +25,18 @@ body {
     background-color: #242424;
     color: white;
 }
+
+.carousel-caption{
+    position: absolute;
+    top:35%;
+    bottom:50%;
+}
+
+.overley{
+    filter: brightness(50%);
+}
+
+/* .overley img{
+    height: 600px;
+    max-height: 100vh;
+} */
